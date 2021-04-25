@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GitSharedSettings">
+    <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+      <list>
+        <option value="master" />
+        <option value="developer1" />
+        <option value="developer2" />
+        <option value="developer3" />
+        <option value="developer4" />
+      </list>
+    </option>
+  </component>
+</project>
